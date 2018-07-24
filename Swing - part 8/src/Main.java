@@ -10,7 +10,7 @@ public class Main {
 			window.addElement("String "+ i);
 		}
 		
-		window.removeElement(7);
+		//window.updateUI();
 	}
 
 }
